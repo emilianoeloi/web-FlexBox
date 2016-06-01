@@ -1,0 +1,19 @@
+{
+  "name": "web_flexbox",
+  "version": "1.0.0",
+  "description": "\"The Flexbox Layout (Flexible Box) module (currently a W3C Last Call Working Draft) aims at providing a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic (thus the word \"flex\").",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianoeloi/web-FlexBox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilianoeloi/web-FlexBox/issues"
+  },
+  "homepage": "https://github.com/emilianoeloi/web-FlexBox#readme"
+}
